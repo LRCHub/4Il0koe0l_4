@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Warp",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-04-03T06:47:35.070372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like a Motorway (Chekhov Warp dub)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/01_Like_a_Motorway_(Chekhov_Warp_dub)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Warp (feat. Steve Aoki)",
+      "artist": "The Bloody Beetroots",
+      "has_synced": false,
+      "path": "select/02_Warp_(feat._Steve_Aoki)_The_Bloody_Beetroots.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Warp 1977",
+      "artist": "The Bloody Beetroots feat. Bobermann & Steve Aoki",
+      "has_synced": false,
+      "path": "select/03_Warp_1977_The_Bloody_Beetroots_feat._Bobermann_&_Steve_Aoki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Warp 1977 (feat. Steve Aoki and Bobberman)",
+      "artist": "The Bloody Beetroots",
+      "has_synced": false,
+      "path": "select/04_Warp_1977_(feat._Steve_Aoki_and_Bobberman)_The_Bloody_Beetroots.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Woof & Warp of the Quiet Giant's Hem",
+      "artist": "Blitzen Trapper",
+      "has_synced": false,
+      "path": "select/05_Woof_&_Warp_of_the_Quiet_Giant's_Hem_Blitzen_Trapper.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Warp Zone/Hidden Bridge",
+      "artist": "Chad VanGaalen",
+      "has_synced": false,
+      "path": "select/06_The_Warp_Zone_Hidden_Bridge_Chad_VanGaalen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Warp Zone\u0000Hidden Bridge",
+      "artist": "Chad VanGaalen",
+      "has_synced": false,
+      "path": "select/07_The_Warp_Zone\u0000Hidden_Bridge_Chad_VanGaalen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big in Japan (FFF Time Warp)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/08_Big_in_Japan_(FFF_Time_Warp)_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Time Warp",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/09_Time_Warp_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mind Warp",
+      "artist": "Patrick Cowley",
+      "has_synced": false,
+      "path": "select/10_Mind_Warp_Patrick_Cowley.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Warp Asylum",
+      "artist": "White Zombie",
+      "has_synced": true,
+      "path": "select/11_Warp_Asylum_White_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Warp Asylum (Album Version)",
+      "artist": "White Zombie",
+      "has_synced": false,
+      "path": "select/12_Warp_Asylum_(Album_Version)_White_Zombie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Warp City",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/13_Warp_City_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Warp Riders",
+      "artist": "The Sword",
+      "has_synced": false,
+      "path": "select/14_The_Warp_Riders_The_Sword.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Time Warp",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/15_Time_Warp_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Balla Coi Barlafüs (Time Warp)",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": true,
+      "path": "select/16_Balla_Coi_Barlafüs_(Time_Warp)_Elio_e_le_Storie_Tese.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girlfriend (The Submarines' Time Warp '66 Mix - English)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/17_Girlfriend_(The_Submarines'_Time_Warp_'66_Mix_-_English)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girlfriend (The Submarines' Time Warp '66 Mix - German)",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/18_Girlfriend_(The_Submarines'_Time_Warp_'66_Mix_-_German)_Avril_Lavigne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Warp",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Warp_04_Limited_Sazabys.txt"
+    }
+  ]
+}
